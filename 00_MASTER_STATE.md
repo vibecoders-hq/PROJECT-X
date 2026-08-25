@@ -24,10 +24,18 @@ WIN the hackathon by building the most compelling AI-powered cognitive gaming pl
 Elderly dementia patients in the North Eastern Region (NER) face cognitive decline and require effective, accessible, culturally inclusive, and AI-enabled cognitive gaming and memory assistance solutions to maintain cognitive function and quality of life. Current solutions lack cultural relevance to the region and do not employ personalized, adaptive AI to track and assist specific cognitive domains over time.
 
 ### TEAM
-- [TO BE FILLED] - Name, Role
-- [TO BE FILLED] - Name, Role
-- [TO BE FILLED] - Name, Role
-- [TO BE FILLED] - Name, Role
+- **Vikas** — Official Team Leader + Architecture & Planning
+- **Sahil** — Research & User Impact
+- **Soumya** — Demo & Presentation
+- **Yamini** — UX/UI & Product Experience
+- **Bharat** — Technical & Product Lead
+
+### PRESENTATION FLOW
+1. **Vikas** — Team Introduction & Overall System/Architecture
+2. **Sahil** — Problem, Users & Why Solution Matters
+3. **Soumya** — Killer Feature & Live Demo
+4. **Yamini** — UX/UI, Elderly Experience & Accessibility
+5. **Bharat** — Technology, AI & How System Works
 
 ### DEADLINE
 - [TO BE FILLED] - Submission deadline with timezone

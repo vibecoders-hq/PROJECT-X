@@ -1,4 +1,5 @@
-[🔙 Home](./00_HOME.md) | [01 Problem & Scope](./01_PROBLEM_SCOPE.md) | [02 Design & UX](./02_DESIGN_UX.md) | [03 Tech Stack](./03_TECH_STACK.md) | [04 Architecture](./04_ARCHITECTURE.md) | [05 Development Plan](./05_DEVELOPMENT_PLAN.md)
+> **HACKATHON OS NAVIGATION**
+> [00 Master State](00_MASTER_STATE.md) | [01 Problem & Research](01_PROBLEM_RESEARCH_COMPETITION.md) | [02 Product PRD](02_PRODUCT_PRD.md) | [03 AI Strategy](03_AI_DOMAIN_STRATEGY.md) | [04 Tech Architecture](04_TECH_ARCHITECTURE.md) | [05 UX/UI Demo](05_UX_UI_DEMO.md) | **06 Execution & Pitch** | [07 Evidence & Knowledge](07_EVIDENCE_DECISIONS_KNOWLEDGE.md)
 
 # 06 — EXECUTION, PITCH & JUDGING
 ## The War Room
@@ -30,16 +31,85 @@ Assuming a 9-day hackathon timeline.
 - **Day 9:** Code freeze. Execute final QA, deploy to staging, submit required forms.
 
 ### Team Responsibilities
-[TO BE FILLED] based on team composition.
 
-Suggested role distribution:
-- **Lead Developer (Frontend + Games):** Focuses on React Native, animations, and game rendering logic.
-- **Backend + AI Developer:** Handles Python/FastAPI, AI adaptation logic, offline sync endpoints, and database.
-- **UI/UX + Design:** Creates elderly-friendly interfaces, cultural assets, layout styling.
-- **Research + Domain + Pitch:** Gathers medical guidelines, manages NER localization, writes the pitch, leads the demo.
+#### 1. Vikas — Official Team Leader + Architecture & Planning
+- **Core Responsibilities:**
+  - Coordinate the team and track overall project progress.
+  - Keep everyone aligned with deadlines and tasks.
+  - Plan how different parts of the project connect.
+  - Break the project into manageable modules/tasks.
+  - Maintain the overall project/technical plan with Bharat.
+  - Identify dependencies or problems early.
+  - Coordinate testing and final integration.
+  - Communicate with organizers when required.
+- **Component Selection Ownership:** Architecture, analytics & data-related components.
+- **Presentation Segment:** Team introduction + overall system & architecture overview.
 
-### Task Assignments
-[TO BE FILLED] after team is known.
+#### 2. Sahil — Research & User Impact
+- **Core Responsibilities:**
+  - Problem and domain research.
+  - Understand user pain points and requirements.
+  - Research existing solutions and competitors.
+  - Collect useful evidence, statistics, and clinical research.
+  - Help with testing and feedback collection.
+  - Identify what users actually need.
+- **Component Selection Ownership:** Landing page, information & impact components.
+- **Presentation Segment:** Problem + target users + why our solution matters.
+
+#### 3. Soumya — Demo & Presentation
+- **Core Responsibilities:**
+  - Structure and practice the pitch presentation.
+  - Own the main live demo flow.
+  - Prepare answers for possible judge questions.
+  - Help explain the product simply and convincingly.
+  - Maintain a smooth backup demo (video/screenshots).
+  - Review overall presentation and demo quality.
+- **Component Selection Ownership:** Dashboard, impressive visuals & demo components.
+- **Presentation Segment:** Killer feature + live demo execution.
+
+#### 4. Yamini — UX/UI & Product Experience
+- **Core Responsibilities:**
+  - Review overall UI/UX quality and consistency.
+  - Focus on elderly-friendly design and accessibility (contrast, typography, tap targets).
+  - Check whether screens are simple and understandable for dementia patients.
+  - Review final UI and suggest actionable improvements.
+  - Help refine presentation visuals and slide design.
+- **Component Selection Ownership:** Elderly-friendly UI, accessibility & interaction components.
+- **Presentation Segment:** Elderly user experience + accessibility.
+
+#### 5. Bharat — Technical & Product Lead
+- **Core Responsibilities:**
+  - Lead overall product decisions.
+  - Main development and vibe coding execution.
+  - AI and technical implementation (adaptive logic, backend integration).
+  - Integrate the different parts of the project.
+  - Integrate selected UI components.
+  - Debug and fix major technical issues.
+  - Ensure the final product actually works reliably.
+  - Lead final technical and demo preparation.
+- **Component Selection Ownership:** Responsible for final integration and consistency of selected components.
+- **Presentation Segment:** Technology + AI + how the system works.
+
+### Presentation Flow
+1. **Vikas** → Team Introduction & Overall System/Architecture
+2. **Sahil** → Problem, Users & Why Our Solution Matters
+3. **Soumya** → Killer Feature & Live Demo
+4. **Yamini** → UX/UI, Elderly Experience & Accessibility
+5. **Bharat** → Technology, AI & How System Works
+
+### Task Assignments Matrix
+| Task / Module | Primary Owner | Secondary / Support |
+|---|---|---|
+| Project Coordination & Trackers | Vikas | Bharat |
+| Domain Research & Evidence | Sahil | Vikas |
+| User Experience & Accessibility Review | Yamini | Soumya |
+| Pitch Structuring & Demo Rehearsal | Soumya | Vikas |
+| Core Development & AI Integration | Bharat | Vikas |
+| UI Component Selection (Architecture/Data) | Vikas | Bharat |
+| UI Component Selection (Landing/Impact) | Sahil | Yamini |
+| UI Component Selection (Dashboard/Visuals) | Soumya | Yamini |
+| UI Component Selection (Elderly UI/Accessibility) | Yamini | Sahil |
+| UI Component Integration & Bug Fixes | Bharat | Vikas |
 
 ### P0 / P1 / P2 / P3 / P4
 Current priority matrix:
@@ -110,30 +180,25 @@ Template for tracking progress:
 "There are over 5 million dementia patients in India, and in the North Eastern Region, specialized care is scarce, compounded by connectivity challenges and cultural disconnects. Traditional brain training apps are too complex, westernized, and require constant internet.
 Enter SmritiSetu. We've built an offline-first cognitive therapy platform designed specifically for the NER. Instead of abstract shapes, our patients match Muga silk patterns and Bihu instruments. Our edge-AI monitors reaction times and accuracy, seamlessly adjusting difficulty to keep the patient engaged without frustration. For the family, a caregiver dashboard provides actionable insights into cognitive decline or stability. SmritiSetu brings culturally resonant, AI-driven healthcare directly to the most remote villages, restoring dignity and extending cognitive vitality."
 
-#### Full Pitch
-1. **Hook (15s):** Start with a personal story or a stark statistic about dementia care in rural NER.
-2. **Problem (30s):** Highlight the gap: no local therapy, western apps fail, zero connectivity.
-3. **Insight (15s):** Cultural familiarity is clinically proven to improve engagement in dementia patients.
-4. **Solution (30s):** Introduce SmritiSetu: culturally localized games, offline-first, caregiver integrated.
-5. **Demo (90s):** Show the patient playing a simple, NER-themed game. Show the AI dynamically lowering difficulty when they struggle. Show the sync to the caregiver app.
-6. **Technology (30s):** Highlight the offline sync architecture and the real-time AI adaptation model.
-7. **Impact (20s):** Scalability across all 8 NER states and beyond. Measurable cognitive maintenance.
-8. **Future (15s):** Integration with clinical trial data, expanding local languages, predictive decline models.
-9. **Close (15s):** "SmritiSetu: Bridging the gap in cognitive care. Thank you."
+#### Full Pitch Segment Breakdown
+1. **Introduction & System Vision (Vikas - 15s):** Welcome judges, present team & overall architecture vision.
+2. **Problem & User Impact (Sahil - 45s):** Highlight the rural NER healthcare gap, user pain points, and current solution failures.
+3. **Killer Feature & Live Demo (Soumya - 90s):** Showcase the core NER-themed cognitive games, real-time adaptation, and live caregiver sync.
+4. **UX & Elderly Accessibility (Yamini - 30s):** Explain elderly-focused design principles, high contrast, large touch targets, and voice interaction.
+5. **Technology, AI Engine & Future (Bharat - 45s):** Detail the offline-first SQLite sync, AI adaptive difficulty logic, system reliability, and future roadmap.
 
 ### Slide Plan
-| Slide # | Title | Key Message | Visual | Time |
-|---|---|---|---|---|
-| 1 | Title | SmritiSetu: AI Cognitive Care | Clean logo, tagline | 10s |
-| 2 | The Crisis | Dementia in NER is unmanaged | Graph/Map of NER healthcare gap | 20s |
-| 3 | The Gap | Existing apps don't work | Screenshots of complex/western apps with red X | 20s |
-| 4 | Our Solution | Culturally aware, offline-first | Mockups of patient and caregiver apps | 30s |
-| 5 | Demo | See it in action | Live video or high-fidelity GIF | 90s |
-| 6 | Technology | Offline AI + Sync | High-level architecture diagram | 30s |
-| 7 | AI Edge | Adaptive Difficulty | Graph showing user skill matching game challenge | 20s |
-| 8 | Market/Impact| Scalable across all 8 states | Market sizing, rollout phases | 20s |
-| 9 | Team & Future| Who we are & what's next | Headshots, brief roadmap timeline | 20s |
-| 10 | Conclusion | SmritiSetu brings dignity | Final impactful image of elderly user | 10s |
+| Slide # | Title | Speaker | Key Message | Visual | Time |
+|---|---|---|---|---|---|
+| 1 | Team & Vision | **Vikas** | SmritiSetu: AI Cognitive Care for NER | Clean logo, team intro | 10s |
+| 2 | System Overview | **Vikas** | High-level system architecture & modules | Architecture diagram | 15s |
+| 3 | The Crisis & Gap | **Sahil** | Dementia care gap & why generic apps fail in NER | Graph/Map of NER healthcare gap | 25s |
+| 4 | User Impact | **Sahil** | Empowering elderly patients & stressed caregivers | User personas & pain points | 20s |
+| 5 | Killer Feature & Demo | **Soumya** | Culturally immersive cognitive games in action | Live screen mirror / demo | 90s |
+| 6 | Elderly UX & Accessibility | **Yamini** | Zero-friction UI for 75+ seniors with dementia | Screen specs, typography & touch targets | 30s |
+| 7 | AI Adaptive Engine | **Bharat** | Dynamic difficulty scaling based on reaction & accuracy | Skill vs challenge adaptation curve | 25s |
+| 8 | Tech Stack & Offline Sync | **Bharat** | Local-first SQLite + FastAPI + Supabase backend | System data flow & sync queue | 20s |
+| 9 | Conclusion | **All** | Restoring dignity to NER's elderly population | Final impactful visual & Q&A transition | 10s |
 
 ---
 

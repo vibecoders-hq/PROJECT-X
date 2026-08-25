@@ -1,7 +1,8 @@
 # 01 — PROBLEM, RESEARCH & COMPETITION
 ## Everything About WHY This Product Should Exist
 
-[01 Problem](01_PROBLEM_RESEARCH_COMPETITION.md) | [02 Ideation](02_IDEATION_SOLUTION_VALIDATION.md) | [03 Product](03_PRODUCT_DESIGN_UX.md) | [04 Architecture](04_ARCHITECTURE_TECH_STACK.md) | [05 Development](05_DEVELOPMENT_EXECUTION.md) | [06 Pitch](06_PITCH_DECK_STORY.md) | [07 Launch](07_LAUNCH_HACKATHON_FINALS.md) | [08 Retrospective](08_RETROSPECTIVE.md)
+> **HACKATHON OS NAVIGATION**
+> [00 Master State](00_MASTER_STATE.md) | **01 Problem & Research** | [02 Product PRD](02_PRODUCT_PRD.md) | [03 AI Strategy](03_AI_DOMAIN_STRATEGY.md) | [04 Tech Architecture](04_TECH_ARCHITECTURE.md) | [05 UX/UI Demo](05_UX_UI_DEMO.md) | [06 Execution & Pitch](06_EXECUTION_PITCH_JUDGING.md) | [07 Evidence & Knowledge](07_EVIDENCE_DECISIONS_KNOWLEDGE.md)
 
 ---
 
@@ -142,8 +143,13 @@ A culturally-rooted, offline-first, voice-enabled (in tribal languages/dialects)
 ---
 
 ### Why Us?
-- **Team Advantages:** [TO BE FILLED - e.g., mix of AI specialists, local NER context knowledge, strong UX background]
-- **Unique Insights:** [TO BE FILLED - e.g., personal experience with dementia care, access to local healthcare workers for feedback]
+- **Team Advantages:**
+  - **Vikas (Official Team Leader + Architecture & Planning):** Overall team coordination, task alignment, project plan, module breakdown with Bharat, early dependency identification.
+  - **Sahil (Research & User Impact):** Domain & problem research, user pain point validation, competitor analysis, evidence collection.
+  - **Soumya (Demo & Presentation):** Presentation structure, main demo flow ownership, judge Q&A prep, simple product storytelling.
+  - **Yamini (UX/UI & Product Experience):** Focus on elderly-friendly design, accessibility audit, UI clarity, visual polish.
+  - **Bharat (Technical & Product Lead):** Product decision lead, core development & vibe coding, AI/technical implementation, component integration, bug fixing.
+- **Unique Insights:** Deep focus on NER hyper-localization, offline-first dementia cognitive therapy, and elderly-accessible voice & touch interaction paradigms.
 
 ---
 

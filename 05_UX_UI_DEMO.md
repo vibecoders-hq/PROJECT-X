@@ -1,7 +1,8 @@
 # 05 — UX/UI DESIGN & DEMO
 ## Experience + Demo — The Visual Bible
 
-[← Previous (04_ARCHITECTURE)](04_ARCHITECTURE.md) | [Next (06_PITCH_DECK) →](06_PITCH_DECK.md)
+> **HACKATHON OS NAVIGATION**
+> [00 Master State](00_MASTER_STATE.md) | [01 Problem & Research](01_PROBLEM_RESEARCH_COMPETITION.md) | [02 Product PRD](02_PRODUCT_PRD.md) | [03 AI Strategy](03_AI_DOMAIN_STRATEGY.md) | [04 Tech Architecture](04_TECH_ARCHITECTURE.md) | **05 UX/UI Demo** | [06 Execution & Pitch](06_EXECUTION_PITCH_JUDGING.md) | [07 Evidence & Knowledge](07_EVIDENCE_DECISIONS_KNOWLEDGE.md)
 
 ---
 
@@ -62,6 +63,19 @@ Recommended component libraries:
 - Never use standard OS alerts; always use custom accessible modals.
 - All touch targets must be wrapped in `TouchableHighlight` or `TouchableOpacity` with at least `hitSlop={{top: 10, bottom: 10, left: 10, right: 10}}`.
 - Text components must have `allowFontScaling={true}` but max out at a reasonable multiplier to avoid breaking layout.
+
+### Shared UI/UX Component Selection Strategy
+This is a shared selection task separate from primary coding roles. Team members select components from provided asset libraries/sources that fit their section (no coding required from Vikas, Sahil, Soumya, or Yamini):
+- **Vikas:** Architecture, analytics & data-related components
+- **Sahil:** Landing page, information & impact components
+- **Soumya:** Dashboard, impressive visuals & demo components
+- **Yamini:** Elderly-friendly UI, accessibility & interaction components
+- **Bharat:** Responsible for final integration and consistency of all selected components
+
+**Submission Specification Format for Each Selected Component:**
+1. Component Name
+2. Screenshot / Visual Example
+3. Target Usage Location in Application
 
 ### Elderly Mode (Patient Interface)
 Design specifications for the patient-facing interface:

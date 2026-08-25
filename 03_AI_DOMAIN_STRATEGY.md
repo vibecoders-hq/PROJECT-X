@@ -1,5 +1,5 @@
-[//]: # (Navigation Bar)
-[Home](00_README.md) | [Executive Summary](01_EXECUTIVE_SUMMARY.md) | [Product Strategy](02_PRODUCT_STRATEGY.md) | **[AI & Domain Strategy](03_AI_DOMAIN_STRATEGY.md)** | [Technical Architecture](04_TECH_ARCHITECTURE.md) | [UX & Design](05_UX_DESIGN.md) | [Development Plan](06_DEVELOPMENT_PLAN.md) | [Pitch Strategy](07_PITCH_STRATEGY.md)
+> **HACKATHON OS NAVIGATION**
+> [00 Master State](00_MASTER_STATE.md) | [01 Problem & Research](01_PROBLEM_RESEARCH_COMPETITION.md) | [02 Product PRD](02_PRODUCT_PRD.md) | **03 AI Strategy** | [04 Tech Architecture](04_TECH_ARCHITECTURE.md) | [05 UX/UI Demo](05_UX_UI_DEMO.md) | [06 Execution & Pitch](06_EXECUTION_PITCH_JUDGING.md) | [07 Evidence & Knowledge](07_EVIDENCE_DECISIONS_KNOWLEDGE.md)
 
 # 03 — AI & DOMAIN STRATEGY
 ## Intelligence Layer — Biology, Cognition & AI Architecture
