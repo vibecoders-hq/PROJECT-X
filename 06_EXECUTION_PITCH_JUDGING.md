@@ -174,11 +174,11 @@ Template for tracking progress:
 ### Pitch
 
 #### 30-Second Pitch
-"Millions of elderly in India's North East suffer from dementia with almost zero access to cognitive therapy. SmritiSetu is an AI-powered cognitive gaming platform that uses culturally familiar themes — Bihu dances, Muga silk patterns, tribal art — to keep their minds active. Our AI adapts every game to each patient's cognitive level, works completely offline, and gives caregivers real-time insights into cognitive health. This isn't just another brain training app — it's a bridge to dignity for NER's forgotten elderly."
+"Millions of elderly in India's North East suffer from dementia with almost zero access to cognitive therapy. PROJECT-X is an AI-powered cognitive gaming platform that uses culturally familiar themes — Bihu dances, Muga silk patterns, tribal art — to keep their minds active. Our AI adapts every game to each patient's cognitive level, works completely offline, and gives caregivers real-time insights into cognitive health. This isn't just another brain training app — it's a bridge to dignity for NER's forgotten elderly."
 
 #### 60-Second Pitch
 "There are over 5 million dementia patients in India, and in the North Eastern Region, specialized care is scarce, compounded by connectivity challenges and cultural disconnects. Traditional brain training apps are too complex, westernized, and require constant internet.
-Enter SmritiSetu. We've built an offline-first cognitive therapy platform designed specifically for the NER. Instead of abstract shapes, our patients match Muga silk patterns and Bihu instruments. Our edge-AI monitors reaction times and accuracy, seamlessly adjusting difficulty to keep the patient engaged without frustration. For the family, a caregiver dashboard provides actionable insights into cognitive decline or stability. SmritiSetu brings culturally resonant, AI-driven healthcare directly to the most remote villages, restoring dignity and extending cognitive vitality."
+Enter PROJECT-X. We've built an offline-first cognitive therapy platform designed specifically for the NER. Instead of abstract shapes, our patients match Muga silk patterns and Bihu instruments. Our edge-AI monitors reaction times and accuracy, seamlessly adjusting difficulty to keep the patient engaged without frustration. For the family, a caregiver dashboard provides actionable insights into cognitive decline or stability. PROJECT-X brings culturally resonant, AI-driven healthcare directly to the most remote villages, restoring dignity and extending cognitive vitality."
 
 #### Full Pitch Segment Breakdown
 1. **Introduction & System Vision (Vikas - 15s):** Welcome judges, present team & overall architecture vision.
@@ -190,7 +190,7 @@ Enter SmritiSetu. We've built an offline-first cognitive therapy platform design
 ### Slide Plan
 | Slide # | Title | Speaker | Key Message | Visual | Time |
 |---|---|---|---|---|---|
-| 1 | Team & Vision | **Vikas** | SmritiSetu: AI Cognitive Care for NER | Clean logo, team intro | 10s |
+| 1 | Team & Vision | **Vikas** | PROJECT-X: AI Cognitive Care for NER | Clean logo, team intro | 10s |
 | 2 | System Overview | **Vikas** | High-level system architecture & modules | Architecture diagram | 15s |
 | 3 | The Crisis & Gap | **Sahil** | Dementia care gap & why generic apps fail in NER | Graph/Map of NER healthcare gap | 25s |
 | 4 | User Impact | **Sahil** | Empowering elderly patients & stressed caregivers | User personas & pain points | 20s |
@@ -205,7 +205,7 @@ Enter SmritiSetu. We've built an offline-first cognitive therapy platform design
 ### Judge Questions
 
 1. **"How is this different from Lumosity?"**
-   → Lumosity is generalized, westernized, requires internet, and assumes high baseline digital literacy. SmritiSetu is culturally localized for the NER, operates offline, is designed for the specific cognitive constraints of dementia patients, and integrates a caregiver loop.
+   → Lumosity is generalized, westernized, requires internet, and assumes high baseline digital literacy. PROJECT-X is culturally localized for the NER, operates offline, is designed for the specific cognitive constraints of dementia patients, and integrates a caregiver loop.
 2. **"Does this actually help dementia?"**
    → While not a cure, cognitive stimulation therapy (CST) is clinically proven to slow cognitive decline. By keeping patients engaged through familiar cultural elements and adaptive AI, we maximize the benefits of CST.
 3. **"How do you handle offline?"**

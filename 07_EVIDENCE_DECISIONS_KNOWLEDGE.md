@@ -11,7 +11,7 @@
 | # | Date | Decision | Alternatives | Why We Chose | Tradeoff | Reversible? |
 |---|---|---|---|---|---|---|
 | 1 | 2026-08-24 | Adopted 8-file Hackathon OS structure | Single monolith file, 120+ files | Better for AI agents, clear purpose per file, manageable | Requires initial setup time | Yes |
-| 2 | 2026-08-24 | Product name: SmritiSetu | NeuroCare, MindBridge, CogniPlay | Cultural resonance, Hindi+Sanskrit roots, meaningful (Memory Bridge) | May need NER language variant | Yes |
+| 2 | 2026-08-24 | Project Code Name: PROJECT-X | Open naming options | Maintains focus on core problem statement and solution mechanics | None | Yes |
 | 3 | | [Future decisions] | | | | |
 
 ### Alternative Decisions

@@ -10,10 +10,10 @@
 A culturally-rooted, AI-powered cognitive gaming platform that transforms dementia care in India's North Eastern Region through adaptive games, voice-enabled interaction, and intelligent caregiver support.
 
 ### One-Sentence Solution
-"SmritiSetu (स्मृतिसेतु / Memory Bridge) is an AI-powered, offline-capable cognitive gaming platform that uses culturally familiar NER themes and adaptive difficulty to improve cognitive engagement for elderly dementia patients while enabling caregivers to monitor progress."
+"PROJECT-X is an AI-powered, offline-capable cognitive gaming platform that uses culturally familiar NER themes and adaptive difficulty to improve cognitive engagement for elderly dementia patients while enabling caregivers to monitor progress."
 
 ### Value Proposition
-For elderly dementia patients in NER who lack access to cognitive therapy, SmritiSetu provides engaging, culturally relevant cognitive games that adapt to their abilities, work offline, and support their native languages — unlike generic brain-training apps that are Western-centric, require constant internet, and ignore the cultural context of NER communities.
+For elderly dementia patients in NER who lack access to cognitive therapy, PROJECT-X provides engaging, culturally relevant cognitive games that adapt to their abilities, work offline, and support their native languages — unlike generic brain-training apps that are Western-centric, require constant internet, and ignore the cultural context of NER communities.
 
 ### Primary User
 **Elderly Patient (60-85+ years) with mild-to-moderate dementia in NER**

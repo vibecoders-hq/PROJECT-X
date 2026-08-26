@@ -98,7 +98,7 @@ Design specifications for the caregiver dashboard (Mobile/Web):
 ### Screen-by-Screen Specification
 Detailed specification for each screen:
 
-1. **Splash Screen** — App logo (SmritiSetu), warm gradient, auto-detect language based on device settings, quick transition.
+1. **Splash Screen** — App logo (PROJECT-X), warm gradient, auto-detect language based on device settings, quick transition.
 2. **Login/Setup** — Large PIN entry pad for patient (4 digits), standard OAuth/email login for caregiver.
 3. **Patient Home** — "Good Morning, Kamala". 2 Big Game Cards (Recommended by AI). Today's reminders. Simple mood check-in (3 big smileys).
 4. **Game Selection** — Category cards: Memory (Elephants), Attention (Weaving Patterns), Language, Daily Recall.
@@ -142,7 +142,7 @@ A local network or cloud backend syncs state in real-time to show immediate upda
 8-step demo script (Total Time: ~4 mins):
 1. **HOOK** (30s) — "Meet Kamala Devi, 72, from Jorhat, Assam. Like 5 million others in India, she struggles with early-stage dementia. Her daughter, Priya, lives in Guwahati and worries daily."
 2. **PROBLEM** (20s) — Show the gap in localized, culturally relevant cognitive care in NER. Standard apps feel alien and confusing.
-3. **ACTION** (30s) — Kamala opens SmritiSetu. She sees a warm, familiar interface in Assamese. She selects a memory game based on Bihu festival items.
+3. **ACTION** (30s) — Kamala opens PROJECT-X. She sees a warm, familiar interface in Assamese. She selects a memory game based on Bihu festival items.
 4. **SYSTEM RESPONSE** (30s) — AI detects she is struggling (high latency). The game seamlessly adapts difficulty downwards.
 5. **KILLER MOMENT** (40s) — Show the AI adaptation in real-time + Kamala uses Voice Command in Assamese: "Moi aji ki dhoribo lage?" (What should I take today?). App reads out medicine reminder.
 6. **PROOF** (30s) — Switch to Caregiver dashboard. Priya sees the real-time alert and the 2-week cognitive trend showing stabilization in Memory.
